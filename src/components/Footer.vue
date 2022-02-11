@@ -11,7 +11,9 @@ const toggleLocales = () => {
 </script>
 
 <template>
-  <footer class="container mx-auto flex flex-wrap p-5 flex-col mt-5 md:flex-row items-start rounded-xl bg-gray-700 shadow-xl dark:bg-green-700 text-white">
-    Made with ♥ by Abhishek Anil Deshmukh
+  <footer
+    class="container mx-auto flex flex-wrap p-5 flex-col mt-5 mb-5 md:flex-row items-start lg:rounded-xl md:rounded bg-gray-700 shadow-xl dark:bg-green-700 text-white"
+  >
+    Made with ♥ by <a href="https://deshmukh.ml" class="hover:underline pl-2" target="__blank"> Abhishek Anil Deshmukh</a>
   </footer>
 </template>
