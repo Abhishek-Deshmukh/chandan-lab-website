@@ -1,17 +1,20 @@
 <script setup lang="ts">
-const props = defineProps<{ name: string; description: string; img: string }>()
+const props = defineProps<{ name: string; description: string; img: string; position: string }>()
 </script>
 
 <template>
   <div class="h-140">
     <div class="bg-gray-200 dark:bg-gray-800 h-130 mt-5 mx-8 rounded flex flex-col items-center p-6 text-center">
       <img
-        class="w-50 h-50 lg:rounded-4xl md:rounded-xl"
+        class="w-100% h-50 rounded"
         :src="props.img"
         :alt="props.name"
       >
-      <p class="text-xl mt-4 uppercase font-medium">
-        Tejas Pravin Rokade
+      <p class="text-xl mt-4 uppercase font-medium font-serif">
+        {{ props.name }}
+      </p>
+      <p class="font-serif">
+        {{ props.position }}
       </p>
       <p
         class="mt-1"

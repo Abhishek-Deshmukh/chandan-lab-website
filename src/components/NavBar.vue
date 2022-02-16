@@ -8,29 +8,31 @@ const { t, availableLocales, locale } = useI18n()
   <div class="w-screen items-center fixed">
     <header class="body-font lg:mt-5 md:mt-3 lg:mx-auto md:mx-auto container lg:max-w-13/14 md:max-w-19/20 sm:max-w-14/14 sm:m-0">
       <div
-        class="mx-auto flex flex-wrap p-2 flex-col md:flex-row items-start lg:rounded-xl md:rounded-lg bg-gray-700 shadow-xl dark:bg-green-700"
+        class="mx-auto flex flex-wrap p-2 flex-col md:flex-row items-start lg:rounded-xl md:rounded-lg  shadow-xl"
       >
-        <span class="flex title-font font-medium items-center text-black mb-6 md:mb-0">
-          <router-link
-            class="ml-2 mt-1 text-xl text-white hover:underline"
-            draggable="false"
-            to="/"
-          >CG Lab</router-link>
-        </span>
         <nav
-          class="ml-auto md:mr-auto flex flex-initial flex-wrap items-start text-start text-lg justify-start text-white"
+          class="ml-auto md:mr-auto flex flex-initial flex-wrap items-start text-start uppercase font-mono text-3xl justify-start text-gray-500"
         >
-          <router-link class="hover:bg-gray-500 rounded-md px-2 mt-1" to="/">
+          <router-link class="hover:bg-gray-800 rounded-md px-2 mt-1 xl:mr-10 md:mr-10" to="/">
             Home
           </router-link>
-          <router-link class="hover:bg-gray-500 rounded-md px-2 mt-1" to="/research">
+          <router-link class="hover:bg-gray-800 rounded-md px-2 mt-1" to="/research">
             Research
           </router-link>
-          <router-link class="hover:bg-gray-500 rounded-md px-2 mt-1" to="/people">
+
+          <span class="flex title-font font-medium items-center text-black mb-6 md:mb-0">
+            <router-link
+              class="mt-1 text-4xl text-gray-500 hover:underline xl:px-40 md:px-40"
+              draggable="false"
+              to="/"
+            >CG LAB</router-link>
+          </span>
+
+          <router-link class="hover:bg-gray-800 rounded-md px-2 mt-1" to="/people">
             People
           </router-link>
           <router-link
-            class="hover:bg-gray-500 rounded-md px-2 mt-1"
+            class="hover:bg-gray-800 rounded-md px-2 mt-1 xl:ml-10 md:ml-10"
             to="/publications"
           >
             Publications

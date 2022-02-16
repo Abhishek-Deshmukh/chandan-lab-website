@@ -12,8 +12,14 @@ const toggleLocales = () => {
 
 <template>
   <footer
-    class="container mx-auto flex flex-wrap p-5 flex-col mt-5 mb-5 md:flex-row items-start lg:rounded-xl md:rounded bg-gray-700 shadow-xl dark:bg-green-700 text-white"
+    class="container mx-auto flex flex-row p-5 flex-col mt-5 mb-5 md:flex-row items-start lg:rounded-xl md:rounded"
   >
-    Made with ♥ by <a href="https://deshmukh.ml" class="hover:underline pl-2" target="__blank"> Abhishek Anil Deshmukh</a>
+    <div class="basis-full">
+      <img src="/img/signature.png" alt="Dr. Chandan Goswami" style="-webkit-filter: invert(100%);@media (prefers-color-scheme: dark) {-webkit-filter: invert(0%);}" class="h-20 ml-40">
+    </div>
+
+    <div class="basis-full pt-8">
+      Made with ♥ by <a href="https://deshmukh.ml" class="hover:underline pl-2" target="__blank"> Abhishek Anil Deshmukh</a>
+    </div>
   </footer>
 </template>
