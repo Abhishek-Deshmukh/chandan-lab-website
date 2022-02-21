@@ -21,7 +21,7 @@ const { t } = useI18n()
         CG LAB
       </span>
 
-      <p class="text-gray-300 text-4xl pt-7 uppercase">
+      <p class="text-gray-300 text-3xl pt-3 font-mono">
         NISER, Bhubaneswar
       </p>
     </div>
