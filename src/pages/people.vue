@@ -88,6 +88,13 @@ My hobbies include singing and watching web series. I'm a foodie and I prefer mo
         description="Currently working on TRPM2."
         position="Master's Student (2018-23)"
       />
+
+      <Card
+        img="./img/ritesh.jpeg"
+        name="Ritesh Dalai"
+        description="Very passionate about coding and simulating molecular interactions of protein channels. Also am nerd/geek who enjoy strumming his guitar sometimes, programming and building packages, FPS and MMORPG gaming fanatic."
+        position="Master's Student (2017-22)"
+      />
     </div>
   </div>
 </template>
