@@ -1,12 +1,12 @@
 <template>
   <div class="container mx-auto text-left">
-    <h1 class="text-4xl underline pt-7 pl-3">
+    <h1 class="text-4xl pt-7 pl-3 uppercase font-serif">
       Publications
     </h1>
-    <h2 class="text-2xl mt-5 pl-5">
-      2022
-    </h2>
-    <ul class="list-none pl-5 font-serif">
+    <ul class="list-disc pl-5 font-serif text-xl">
+      <h2 class="text-2xl mt-5 pl-5 font-serif">
+        2022
+      </h2>
       <li class="pt-8">
         <a target="__blank" href="https://www.sciencedirect.com/science/article/pii/S002364382101971X">Novel Levilactobacillus brevis-based formulation for controlling cell proliferation, cell migration and gut dysbiosis	</a>
       </li>
