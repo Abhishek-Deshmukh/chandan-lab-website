@@ -4,13 +4,6 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
-    'AkarIcons:facebookFill': typeof import('~icons/akar-icons/facebook-fill')['default']
-    'AkarIcons:twitterFill': typeof import('~icons/akar-icons/twitter-fill')['default']
-    'AntDesign:mailOutlined': typeof import('~icons/ant-design/mail-outlined')['default']
-    'Brandico:facebook': typeof import('~icons/brandico/facebook')['default']
-    'Bxl:facebook': typeof import('~icons/bx/l-facebook')['default']
-    CarbonMoon: typeof import('~icons/carbon/moon')['default']
-    CarbonSun: typeof import('~icons/carbon/sun')['default']
     Card: typeof import('./components/Card.vue')['default']
     Counter: typeof import('./components/Counter.vue')['default']
     Footer: typeof import('./components/Footer.vue')['default']
