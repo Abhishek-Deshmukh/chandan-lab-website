@@ -19,7 +19,7 @@ const navDivClasses = computed(() => {
     return basic_classes
 
   else
-    return `${basic_classes} bg-white shadow-xl `
+    return `${basic_classes} bg-white dark:bg-black shadow-xl `
 })
 </script>
 
@@ -32,10 +32,10 @@ const navDivClasses = computed(() => {
         <nav
           class="ml-auto md:mr-auto flex flex-initial flex-wrap items-start text-start uppercase font-mono text-3xl justify-start text-gray-500"
         >
-          <router-link class="hover:bg-gray-800 rounded-md px-2 mt-1 xl:mr-10 md:mr-10" to="/">
+          <router-link class="hover:bg-gray-200 rounded-md px-2 mt-1 xl:mr-10 md:mr-10 transition-all duration-100 hover:text-4xl" to="/">
             Home
           </router-link>
-          <router-link class="hover:bg-gray-800 rounded-md px-2 mt-1" to="/research">
+          <router-link class="hover:bg-gray-200 rounded-md px-2 mt-1 transition-all duration-100 hover:text-4xl" to="/research">
             Research
           </router-link>
 
@@ -47,11 +47,11 @@ const navDivClasses = computed(() => {
             >CG LAB</router-link>
           </span>
 
-          <router-link class="hover:bg-gray-800 rounded-md px-2 mt-1" to="/people">
+          <router-link class="hover:bg-gray-200 rounded-md px-2 mt-1 transition-all duration-100 hover:text-4xl" to="/people">
             People
           </router-link>
           <router-link
-            class="hover:bg-gray-800 rounded-md px-2 mt-1 xl:ml-10 md:ml-10"
+            class="hover:bg-gray-200 rounded-md px-2 mt-1 xl:ml-10 md:ml-10 transition-all duration-100 hover:text-4xl"
             to="/publications"
           >
             Publications
