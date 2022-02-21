@@ -15,7 +15,7 @@ const toggleLocales = () => {
     class="container mx-auto flex flex-row p-5 flex-col mt-5 mb-5 md:flex-row items-start lg:rounded-xl md:rounded"
   >
     <div class="basis-full">
-      <img src="/img/signature.png" alt="Dr. Chandan Goswami" style="-webkit-filter: invert(100%);@media (prefers-color-scheme: dark) {-webkit-filter: invert(0%);}" class="h-20 ml-40">
+      <img src="/img/signature.png" alt="Dr. Chandan Goswami" class="h-20 ml-40 filter invert dark:invert-0">
     </div>
 
     <div class="basis-full pt-8">
