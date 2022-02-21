@@ -5,7 +5,7 @@
 useHead({
   title: 'C G Lab NISER - Defeating Pain',
   meta: [
-    { name: 'description', content: 'Opinionated Vite Starter Template' },
+    { name: 'description', content: 'Defeating Pain' },
     { name: 'keywords', content: 'Pain, NISER, research, biology, defeating pain' },
   ],
 })

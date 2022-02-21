@@ -11,6 +11,7 @@ const go = () => {
 }
 
 const { t } = useI18n()
+
 </script>
 
 <template>
