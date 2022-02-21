@@ -2,6 +2,10 @@ lockfileVersion: 5.3
 
 specifiers:
   '@antfu/eslint-config': ^0.16.1
+  '@iconify-json/akar-icons': ^1.1.0
+  '@iconify-json/ant-design': ^1.1.0
+  '@iconify-json/brandico': ^1.1.0
+  '@iconify-json/bx': ^1.1.0
   '@iconify-json/carbon': ^1.0.14
   '@intlify/vite-plugin-vue-i18n': ^3.2.2
   '@types/markdown-it-link-attributes': ^3.0.1
@@ -54,6 +58,10 @@ dependencies:
 
 devDependencies:
   '@antfu/eslint-config': 0.16.1_eslint@8.8.0+typescript@4.5.5
+  '@iconify-json/akar-icons': 1.1.0
+  '@iconify-json/ant-design': 1.1.0
+  '@iconify-json/brandico': 1.1.0
+  '@iconify-json/bx': 1.1.0
   '@iconify-json/carbon': 1.0.14
   '@intlify/vite-plugin-vue-i18n': 3.2.2_vite@2.7.13+vue-i18n@9.1.9
   '@types/markdown-it-link-attributes': 3.0.1
@@ -1407,6 +1415,30 @@ packages:
 
   /@humanwhocodes/object-schema/1.2.1:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
+    dev: true
+
+  /@iconify-json/akar-icons/1.1.0:
+    resolution: {integrity: sha512-3uLwak2ztMS3S7gtMvfsRGRCB4PqHOnXqUnBE2bIIa5iK1XU5cMSPcKJkvpZFaz/TxxcQOr0zdzZCM9lNUXIWQ==}
+    dependencies:
+      '@iconify/types': 1.0.12
+    dev: true
+
+  /@iconify-json/ant-design/1.1.0:
+    resolution: {integrity: sha512-ggsMgmsPt1ViOFoUBGqkB6yIQV0GVnomxiAVUlHBYY6f1tBCcgRok9NK2kaa5dAes8+mJF6AxKJfiSWNUAAwbw==}
+    dependencies:
+      '@iconify/types': 1.0.12
+    dev: true
+
+  /@iconify-json/brandico/1.1.0:
+    resolution: {integrity: sha512-H4Cg4KAOv6OHF9PUP0wVJ03Vs2mFwPlD4s+QW5LnEnKFV6A2W5L3G6YjHCWyOpuhFDa8UlP1+ImxfhTkN0e3LA==}
+    dependencies:
+      '@iconify/types': 1.0.12
+    dev: true
+
+  /@iconify-json/bx/1.1.0:
+    resolution: {integrity: sha512-1pHDHQmcgURTmNOjs34rwtju4wdIYsTI0vZp1btKoXgAoE5QQXSH8eP6nDUqmszWBQKjwkPMY+afD5t3lQdKlg==}
+    dependencies:
+      '@iconify/types': 1.0.12
     dev: true
 
   /@iconify-json/carbon/1.0.14:

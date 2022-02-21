@@ -26,7 +26,7 @@ const { t } = useI18n()
       </p>
     </div>
   </div>
-  <section class="container mx-auto flex h-screen pt-40">
+  <section id="pain" class="container mx-auto flex h-screen pt-40">
     <img src="https://www.niser.ac.in/~chandan/images/slideshow/Coverpic.jpg" class="w-100 h-100">
     <div class="flex-grow text-left ml-10">
       <p class="text-xl">
@@ -58,6 +58,44 @@ const { t } = useI18n()
         components are worth to study at the molecular level.
       </p>
     </div>
+  </section>
+  <section id="contact-us" class="container mx-auto h-screen pt-10">
+    <h1 class="text-4xl">
+      Contact/Join Us
+    </h1>
+    <br>
+    <p class="text-2xl uppercase mb-3 mt-6">
+      Dr.Chandan Goswami
+    </p>
+
+    <p class="text-3xl">
+      <a class="icon-btn " href="mailto:chandan@niser.ac.in">
+        <ant-design:mail-outlined class="mr-4" />
+      </a>
+
+      <a class="icon-btn" href="#">
+        <akar-icons:facebook-fill class="mr-4" />
+      </a>
+
+      <a class="icon-btn" href="#">
+        <akar-icons:twitter-fill class="mr-4" />
+      </a>
+    </p>
+    <h2 class="text-3xl text-left mt-7 mb-4">
+      Graduate and Postdoctoral Reseach
+    </h2>
+    <p class="text-xl text-left">
+      Candidates with an excellent research record and an excitement for asking
+      tough questions should email Dr.Chandan Ghoswami with a brief introduction, CV, and the
+      names and contact information of at least two references.
+    </p>
+
+    <h2 class="text-3xl text-left my-4">
+      Master's Student
+    </h2>
+    <p class="text-xl text-left">
+      Master's student will need to apply throught the <a href="https://www.nestexam.in/" target="__blank" class="text-blue-800 dark:text-blue-400">NEST exam</a> before joining NISER.
+    </p>
   </section>
 </template>
 

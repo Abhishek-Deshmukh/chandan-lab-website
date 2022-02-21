@@ -24,6 +24,10 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.16.1",
+    "@iconify-json/akar-icons": "^1.1.0",
+    "@iconify-json/ant-design": "^1.1.0",
+    "@iconify-json/brandico": "^1.1.0",
+    "@iconify-json/bx": "^1.1.0",
     "@iconify-json/carbon": "^1.0.14",
     "@intlify/vite-plugin-vue-i18n": "^3.2.2",
     "@types/markdown-it-link-attributes": "^3.0.1",
