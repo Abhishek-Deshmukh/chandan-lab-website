@@ -48,42 +48,42 @@
       <Card
         img="./img/satish.jpeg"
         name="Dr. Satish Kumar"
-        description=""
+        description="He is working on TRPV4 in mitochondria and Bone cells."
         position="Post Doc. Student"
       />
 
       <Card
         img="./img/tusar.jpeg"
         name="Tusar Kanta Acharya"
-        description="Working on TRPV4 in Mitocondria."
+        description="He is working on TRPV4 in Mitocondria. "
         position="Graduate Student"
       />
 
       <Card
         img="./img/FB_IMG_1638814939089 - Ram Prasad Sahu.jpg"
-        name="Ram Prasad Sahoo"
-        description="Interested in reading ,music and playing musical instruments."
+        name="Ram Prasad Sahu"
+        description="He is working on TRPV3 channel and he is interested in reading, music and playing musical instruments."
         position="Graduate Student"
       />
 
       <Card
         img="./img/IMG_20220124_130500_Bokeh - Nishant Kumar Dubey.jpg"
         name="Nishant Kumar Dubey"
-        description="I am curious and want to learn new things and so is my taste in Research as well. I have spend some time in few different research fields like genomic analysis and Protein expression and functions."
+        description="He working on TRPV4 and catsper channels."
         position="Graduate Student"
       />
 
       <Card
         img="./img/IMG-20211031-WA0008 - Sushama Mohanta.jpg"
         name="Sushama Mohanta"
-        description="Currently Working on TRPV1."
+        description="She is currently working on TRPV1."
         position="Graduate Student"
       />
 
       <Card
         img="./img/Screenshot_20220124-091616_Photos - Deep Shikha.jpg"
         name="Deep Shikha"
-        description="PhD scholar at School of Biological Science, NISER."
+        description="She is working on TRPA1 and TRPM8. She likes coffee pretty much."
         position="Graduate Student"
       />
     </div>
@@ -94,54 +94,53 @@
       <Card
         img="./img/subham.jpeg"
         name="Subham Mishra"
-        description=""
+        description="He is currently working on TRPV4."
         position="Master's Student (2019-24)"
       />
       <Card
         img="./img/nilesh.jpeg"
         name="Nilesh Kumar Das"
-        description=""
+        description="He is currently working on TRPV4 and TRPV3. He likes playing games a lot."
         position="Master's Student (2019-24)"
       />
       <Card
         img="./img/raima.jpeg"
         name="Raima Singh"
-        description=""
+        description="She is working on TRPM8 and TRPA1."
         position="Master's Student (2019-24)"
       />
       <Card
         img="./img/IMG_20220116_151557_308 - Shamit Kumar.jpg"
         name="Shamit Kumar"
-        description="I hail from New Delhi. Currently pursuing my Master's. Connecting the dots of mitochondria, adipocytes and TRP channels. After all these years, I can say 'Life is hard man'. "
+        description="He is hail from New Delhi. Currently pursuing Master's in niser. He working om TRPM7 and TPV4. After all these years, he can say 'Life is hard man'. "
         position="Master's Student (2018-23)"
       />
 
       <Card
         img="./img/tejas.jpeg"
         name="Tejas Pravin Rokade"
-        description="Mumbai se aya tera dost. Working on Thermosensitive Ion channels TRPV3 and TRPV4."
+        description="He is working on TRPV3 and TRPV4."
         position="Master's Student (2018-23)"
       />
 
       <Card
         img="./img/shreya.jpeg"
         name="Shreya Soni"
-        description="I'm born and brought up in Dhanbad, currently pursuing Masters in Life Sciences from NISER. I'm involved in the understanding of osmoregulation of TRPV4.
-My hobbies include singing and watching web series. I'm a foodie and I prefer mountains over beaches."
+        description="She is currently pursuing Masters in Life Sciences from NISER. She is working on TRPV4 and aquaporins in Fish cells. Her hobbies include singing and watching web series."
         position="Master's Student (2018-23)"
       />
 
       <Card
         img="./img/harshit.jpeg"
         name="Harshit Haldua"
-        description="Currently working on TRPM2."
+        description="He is master's student and currently working on TRPM2."
         position="Master's Student (2018-23)"
       />
 
       <Card
         img="./img/ritesh.jpeg"
         name="Ritesh Dalai"
-        description="Very passionate about coding and simulating molecular interactions of protein channels. Also am nerd/geek who enjoy strumming his guitar sometimes, programming and building packages, FPS and MMORPG gaming fanatic."
+        description="He is very passionate about coding and simulating molecular interactions of protein channels and he is working on TRRV3 and TRPV4 channles."
         position="Master's Student (2017-22)"
       />
     </div>
@@ -152,7 +151,7 @@ My hobbies include singing and watching web series. I'm a foodie and I prefer mo
       <Card
         img="./img/ashutosh.jpeg"
         name="Dr. Ashutosh Kumar (2010-2016)"
-        description="Current Position: Joining as PDF in Washinton University, School of Medicinne, USA. "
+        description="Current Position: Joining as PDF in Washinton University, School of Medicine, USA. "
       />
       <Card
         img="./img/manoj.jpeg"
