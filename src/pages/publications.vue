@@ -1,201 +1,168 @@
 <template>
   <div class="container mx-auto text-left">
-    <h1 class="text-4xl pt-7 pl-3 uppercase font-serif">
+    <h1 class="text-4xl pt-7 pl-3 uppercase font-sans">
       Publications
     </h1>
-    <ul class="list-disc pl-5 font-serif text-xl">
-      <h2 class="text-2xl mt-5 pl-5 font-serif">
+
+    <ul class="list-disc pl-5 font-sans text-xl">
+      <h2 class="text-2xl mt-5 pl-5 font-sans">
         2022
       </h2>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/pii/S002364382101971X">Novel Levilactobacillus brevis-based formulation for controlling cell proliferation, cell migration and gut dysbiosis	</a>
+        <a target="__blank" href="https://www.sciencedirect.com/science/article/pii/S002364382101971X">Mahanta S; Prusty M; Sivakumar PS; Mishra D; Sahu R; Goswami C; Chawla S; Goswami L; Elangovan S, Panda SK (2022) Novel Levilactobacillus brevis-based formulation for controlling cell proliferation, cell migration and gut dysbiosis. LWT - Food Science & Technology. 154, 112818 .</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://link.springer.com/article/10.1007/s12524-021-01474-8">Applications of Advanced Geospatial Technology for Expansion of Area under Horticultural Crops in North Eastern Region of India	</a>
+        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S2468519421003335">Kar MR, Chakraborty R, Patel U, Chakraborty R, Ray S, Acharya TK, Goswami C, Bhaumik S (2022) Impact of Zn-doping on the composition, stability, luminescence properties of silica coated all-inorganic cesium lead bromide nanocrystals and their biocompatibility. Materials Today Chemistry. 23, 100753 </a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://pubs.acs.org/doi/10.1021/acsomega.1c06915">Chakraborty R, Acharya TK, Tiwari N, Majhi RK, Kumar S, Goswami L, Goswami C (2022) Hydrogel mediated release of TRPV1 modulators to fine tune Osteoclastogenesis. ACS Omega 7, 9537-9550. </a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/35489198/">Chakraborty R; Goswami C (2022) Both heat-sensitive TRPV4 and cold-sensitive TRPM8 ion channels regulate microglial activity. Biochem Biophys Res Commun 611: 132-139.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/35490656/">Das R, Kumar A, Dalai R, Goswami C. (2022) Cytochrome C interacts with the pathogenic mutational hotspot region of TRPV4 and forms complexes that differ in mutation and metal ion-sensitive manner. Biochem Biophys Res Commun.611: 172-178.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/35608627/">Saha S, Mohanta S, Das R, Dalai R, Divyanshi, Tiwari N, Tiwari A, Kumar A, Goswami C. (2022) Ratio of Hydrophobic-Hydrophilic and Positive-Negative Residues at Lipid-Water-Interface Influences Surface Expression and Channel Gating of TRPV1. J Membr Biol. 255(2-3): 319-339.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S2352492822006420?via%3Dihub">Singh A, Kumar S, Acharya TK, Goswami C and Goswami L. (2022) Application of nanohydroxyapatite-polysaccharide based biomaterial for bone cell mineralization in tissue engineering. Materials Today Communications. </a>
       </li>
 
-      <h2 class="text-2xl mt-5 pl-5">
+      <h2 class="text-2xl mt-5 pl-5 font-sans">
         2021
       </h2>
       <li class="pt-8">
-        <a target="__blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/macp.202100134">Branched/Hyperbranched Copolyesters from Poly (vinyl alcohol) and Citric Acid as Delivery Agents and Tissue Regeneration Scaffolds	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/33090595/">Acharya TK, Tiwari A, Majhi RK, Goswami C. (2021) Endogenous TRPM8 channel augments T cell activation and proliferation. Cell biology international. 45(1): 198-210.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0022391321002249">Comparative evaluation of surface-modified zirconia for the growth of bone cells and early osseointegration	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/33125586/">Kumar PS, Nayak TK, Mahish C, Sahoo SS, Anukrishna R, De S, Datey A, Sahu RP, Goswami C, Chattopadhyay S, Chattopadhyay S. (2021) Inhibition of Transient Receptor Potential Vanilloid 1 (TRPV1) Channel Regulates Chikungunya Virus Infection in Macrophages. Archived in virology. 166(1): 139-155.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.nature.com/articles/s41598-021-81041-w?elqTrackId=8f2116d853a5426c8139fabd7b46d64f">TRPM8 channel inhibitor-encapsulated hydrogel as a tunable surface for bone tissue engineering	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/33254970/">Yadav C, Chajjed M, Chaudhary P, Sahu RP, Patel A, Chawla S, Goswami L, Goswami C and Maji PK. (2021) Bio-extract amalgamated sodium alginate-cellulose nanofibres based 3D- sponges with interpenetrating bioPU coating as wound care scaffolds. Materials Science & Engineering C.118:111348.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0928493120336985">Modified tamarind kernel polysaccharide-based matrix alters neuro-keratinocyte cross-talk and serves as a suitable scaffold for skin tissue engineering	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/33579440/">Choudhury P, Chawla S, Agarwal S, Singh A, Nayak A, Kumar A, Maji PK, Goswami C, Goswami L. (2020) Modified tamarind kernel polysaccharide-based matrix alters neuro-keratinocyte cross-talk and serves as a suitable scaffold for skin tissue engineering. Materials Science & Engineering C.121: 111779. </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/pii/B9780128185889000048">TRP channels in the gut: Effect of probiotics and phyto-nutraceuticals on gut-brain-immune axis	</a>
+        <a target="__blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7881029/">Acharya TK, Tiwari N, Kumar S, Ghosh A, Tiwari A, Pal S, Majhi RK, Kumar A, Das R, Singh A, Maji PK, Chattopadhyay N, Goswami L, Goswami C. (20210) TRPM8 channel inhibitor-encapsulatedCMT:HEMA hydrogel as a tunable surface for bone tissue engineering. Scientific reports. 11(1): 3730.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="-Toxicity	https://pubs.rsc.org/en/content/articlehtml/2021/dt/d0dt03901b">Lowest Aqueous Picomolar Fluoride Ion Detection by an Aluminum(III) Bind Chemosensor and in vivo Aluminum</a>
+        <a target="__blank" href="https://pubs.rsc.org/en/content/articlelanding/2021/dt/d0dt03901b">Das M, Maity D, Acharya TK, Sau S, Giri C, Goswami C and Mal P. (2021) Lowest Aqueous Picomolar Fluoride Ion Detection by an Aluminum(III) Bind Chemosensor and in vivo Aluminum-Toxicity. Dalton Transactions. 50(1): 3027-3036	</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://link.springer.com/article/10.1007/s00705-020-04852-8">Inhibition of transient receptor potential vanilloid 1 (TRPV1) channel regulates chikungunya virus infection in macrophages	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/34049698/">Majhi R, Majhi RK, Garhnayak L, Patro TK, Dhal A, Kumar S, Guha P, Goswami L, Goswami C (2020) Comparative evaluation of surface modified zirconia for growth of bone cells and early osseointegration. The Journal of Prosthetic Dentistry. 126, 92. e1-92. e8.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cbin.11483">TRPM8 channel augments T‐cell activation and proliferation	</a>
+        <a target="__blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/macp.202100134">Sengupta S, Singh A, Dutta K Sahu RP, Goswami C, Chawla S, Goswami L, Bandyopadhyay A (2021) Branched/Hyperbranched Copolyesters from Poly (vinyl alcohol) And Citric Acid as Delivery Agent and a Tissue Regeneration Scaffold. Macromolecular Chemistry and Physics. 222, 2100134 </a>
       </li>
 
-      <h2 class="text-2xl mt-5 pl-5">
+      <h2 class="text-2xl mt-5 pl-5 font-sans">
         2020
       </h2>
       <li class="pt-8">
-        <a target="__blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/rda.13822">Differential expression and localization of TRPV channels in the mature sperm of Anas platyrhynchos	</a>
+        <a target="__blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7560523/">Yadav M, Goswami C (2020) TRPV2 interacts with actin and reorganizes submembranous actin cytoskeleton. Bioscience Reports. 40(1): BSR20200118.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://portlandpress.com/bioscirep/article/40/10/BSR20200118/226528">TRPV2 interacts with actin and reorganizes submembranous actin cytoskeleton	</a>
+        <a target="__blank" href="https://www.biorxiv.org/content/10.1101/2020.02.10.941732v1.full">Majhi R K, Kumar A, Giri SC, Goswami C. (2020) Differential expression and localization of thermosensitive Transient Receptor Potential Vanilloid (TRPV) channels in the mature sperm of white pekin duck (Anas platyrhynchos).bioRxiv: (Preprint)</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href=")	https://www.fertstert.org/article/S0015-0282(20)31874-4/fulltext">TRPV1 AS A MODULATOR OF ROS-INDUCED SPERM FUNCTION AND ITS CORRELATION WITH PREGNANCY OUTCOME (NATURAL CONCEPTION AND ART</a>
+        <a target="__blank" href="https://onlinelibrary.wiley.com/doi/10.1111/rda.13822">Majhi RK, Kumar A, Giri SC, Goswami C. (2020) Differential expression and localization of TRPV channels in the mature sperm of Anas platyrhynchos. Reproduction in domestic animals.55: 1619-1628.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://pubs.acs.org/doi/pdf/10.1021/acsami.0c11880">Correction to Carbohydrate-Coated Gold–Silver Nanoparticles for Efficient Elimination of Multidrug Resistant Bacteria and in Vivo Wound Healing	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/pii/S2589004220301218">TLR9 polymorphisms might contribute to the ethnicity bias for EBV-infected Nasopharyngeal Carcinoma	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://www.biorxiv.org/content/10.1101/2020.09.04.272484v1.abstract">Ratio of hydrophobic-hydrophilic and positive-negative residues at lipid-water-interface influences surface expression and channel-gating of TRPV1	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0928493120332665">Bio-extract amalgamated sodium alginate-cellulose nanofibres based 3D-sponges with interpenetrating BioPU coating as potential wound care scaffolds	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href=")	https://www.biorxiv.org/content/10.1101/2020.02.10.941732v1.abstract">Differential expression and localization of thermosensitive Transient Receptor Potential Vanilloid (TRPV) channels in the mature sperm of white pekin duck (Anas platyrhynchos</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="-disorders	https://www.sciencedirect.com/science/article/pii/S0888754318306712">Mutational hotspots of HSP47 and its potential role in cancer and bone</a>
+        <a target="__blank" href="https://www.semanticscholar.org/paper/TRP-channels-in-the-gut%3A-Effect-of-probiotics-and-Mohanta-Goswami/41eca7c1087eaa89868866078c47a54642b609ce">Mohanta S and Goswami C (2020) TRP channels at gut: effect of probiotics and phyto-nutraceuticals on gut-brain-immune axis. Book Chapter. Springer.</a>
       </li>
 
-      <h2 class="text-2xl mt-5 pl-5">
+      <h2 class="text-2xl mt-5 pl-5 font-sans">
         2019
       </h2>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0006291X19313920">TRPV4 expresses in bone cell lineages and TRPV4-R616Q mutant causing Brachyolmia in human reveals “loss-of-interaction” with cholesterol	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/31488616/">Sahoo SS, Majhi RK, Tiwari A, Acharya TK, Kumar PS, Saha S, Goswami C, Chattopadhyay S (2019) Transient Receptor Potential Ankyrin1 channel is endogenously expressed in T cells and regulates immune functions. Bioscience Reports; 39(9). pii: BSR20191437.	</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://portlandpress.com/bioscirep/article/39/9/BSR20191437/220415">Transient receptor potential ankyrin1 channel is endogenously expressed in T cells and is involved in immune functions	</a>
+        <a target="__blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=y_bKY0gAAAAJ&citation_for_view=y_bKY0gAAAAJ:zYLM7Y9cAGgC">Yadav M, Saha S, Kumar A, Goswami C (2019) Plant and natural products as modulators of TRP channels. Biological Research & Reviews., 1–13 </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0006291X19303225">TRPA1 is selected as a semi-conserved channel during vertebrate evolution due to its involvement in spermatogenesis	</a>
+        <a target="__blank" href="https://europepmc.org/article/med/30885439">Saha S, Sucharita S, Majhi RK, Tiwari A, Ghosh A, Pradhan SK, Patra BK, Dash RR, Nayak RN, Giri SC, Routray P, Kumar A, Kumar GP, Goswami C (2019) TRPA1 is selected as a semi-conserved channel during vertebrate evolution due to its involvement in spermatogenesis. Biochemical and Biophysical Research Communications 512: 295-302</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href=".	https://www.scirp.org/journal/paperinformation.aspx?paperid=91770">Microscopic Observation of Acid Rain Induced Bacopa monnieri L</a>
+        <a target="__blank" href="https://europepmc.org/article/med/31387748">Das R, Goswami C (2019) TRPV4 expresses in bone cell lineages and TRPV4-R616Q mutant causing Brachyolmia in human reveals “loss-of-interaction” with cholesterol. Biochemical and Biophysical Research Communications 517: 566-574.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://pubs.acs.org/doi/abs/10.1021/acsami.9b17086">Carbohydrate-Coated Gold–Silver Nanoparticles for Efficient Elimination of Multidrug Resistant Bacteria and in Vivo Wound Healing	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/31664808/">Kumar S, Majhi RK, Singh A, Mishra M, Chawla S, Tiwari A, Guha P, Satpati B, Mohapatra H, Goswami L, Goswami C (2019) Carbohydrate-coated Gold-Silver nanoparticles for efficient elimination of multi drug resistant bacteria and in vivo wound healing. ACS-Applied materials and interfaces 11(46), 42998-43017 </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.biorxiv.org/content/10.1101/817684v1.abstract">TRPV2 activation reorganizes actin cytoskeleton, induces neurite initiation and branching by altering cAMP levels	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://www.biorxiv.org/content/10.1101/621854v1.abstract">Transient Receptor Potential Ankyrin1 channel is endogenously expressed in T cells and regulates immune functions	</a>
+        <a target="__blank" href="https://www.biorxiv.org/content/10.1101/817684v1.full">Yadav M, Goswami C (2019) TRPV2 activation reorganizes actin cytoskeleton, induces neurite initiation and branching by altering cAMP levels. bioRxiv </a>
       </li>
 
-      <h2 class="text-2xl mt-5 pl-5">
+      <h2 class="text-2xl mt-5 pl-5 font-sans">
         2018
       </h2>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0006899318304621">Transient receptor potential vanilloid 1-6 (Trpv1-6) gene expression in the mouse brain during estrous cycle	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/29458266/">Kumar S, Majhi RK, Sanyasi S, Goswami C, Goswami L (2018) Acrylic acid grafted tamarind kernel polysaccharide-based hydrogel for bone tissue engineering in absence of any osteoinducing factors. Connective Tissue Research 59, 111-121. </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.researchgate.net/publication/328880276_Mutational_Hotspots_and_Protein_Interactome_Analyses_of_Collagen-Specific_Chaperone-HSP47">Mutational hotspots and protein interactome analyses of collagen-2 specific chaperone-HSP47 3	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/29580430/">Choudhury P, Kumar S, Singh A, Kumar A, Kaur N, Sanyasi S, Chawla S, Goswami C, Goswami L (2018) Hydroxyethyl methacrylate grafted carboxy methyl tamarind (CMT-g-HEMA) polysaccharide based matrix as a suitable scaffold for skin tissue engineering. Carbohydrate Polymers. 189, 87-98. </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.tandfonline.com/doi/full/10.1080/03008207.2018.1442444">Acrylic acid grafted tamarind kernel polysaccharide-based hydrogel for bone tissue engineering in absence of any osteo-inducing factors	</a>
+        <a target="__blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5945830/">Mishra M, Kumar S, Majhi R K, Goswami L, Goswami C, Mohapatra H (2018). Antibacterial efficacy of polysaccharide capped silver nanoparticles is not affected by AcrAB-TolC efflux pump. Frontiers in Microbiology. 9, 823. </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0144861718300973">Hydroxyethyl methacrylate grafted carboxy methyl tamarind (CMT-g-HEMA) polysaccharide based matrix as a suitable scaffold for skin tissue engineering	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/30194920/">Kumar S, Singh U, Singh O, Goswami C, Singru PS (2018) Transient receptor potential vanilloid 1-6 (TRPV1-6) gene expression in the mouse brain during estrous cycle. Brain Research, 1701: 161-170.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.frontiersin.org/articles/10.3389/fmicb.2018.00823/full">Antibacterial efficacy of polysaccharide capped silver nanoparticles is not compromised by AcrAB-TolC efflux pump	</a>
+        <a target="__blank" href="https://peerj.com/preprints/26614/">Majhi R K, Maity A, Senapati MR, Behera PC, Mandal AK, Giri SC, Goswami C. (2018) Endogenous expression of thermo-sensitive ion channels TRPV1 and TRPV4 in immune tissues of avian species (duck, Anas platyrhynchos). </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href=")	https://www.nature.com/articles/s41598-018-20154-1">A model species for agricultural pest genomics: the genome of the Colorado potato beetle, Leptinotarsa decemlineata (Coleoptera: Chrysomelidae</a>
+        <a target="__blank" href="https://www.biorxiv.org/node/100815.full">A Kumar, RK Majhi, TK Acharya, KH Smalla, ED Gundelfinger, Goswami C. (2018) TRPV4 interacts with mitochondrial proteins and acts as a mitochondrial structure-function regulator, BioRxiv, 330993 </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.biorxiv.org/content/10.1101/330993v1.abstract">TRPV4 interacts with mitochondrial proteins and acts as a mitochondrial structure-function regulator	</a>
+        <a target="__blank" href="https://www.preprints.org/manuscript/201811.0280/v1">Parveen A, Kumar R, Tandon R, Khurana S, Goswami C, Kumar A.  (2018) Mutational Hotspots and Protein Interactome Analyses of Collagen-Specific Chaperone—HSP47. International Journal of Molecular Sciences (Preprint)</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="http://biorxiv.org/cgi/content/short/621854v1 	https://pubmed.ncbi.nlm.nih.gov/31488616/">Sahoo SS, Majhi RK, Tiwari A, Acharya TK, Kumar PS, Saha S, Goswami C, Chattopadhyay S (2018) Transient Receptor Potential Ankyrin1 channel is endogenously expressed in T cells and regulates immune functions. bioRxiv: (Preprin</a>
       </li>
 
-      <h2 class="text-2xl mt-5 pl-5">
+      <h2 class="text-2xl mt-5 pl-5 font-sans">
         2017
       </h2>
       <li class="pt-8">
-        <a target="__blank" href="https://www.nature.com/articles/s41598-017-16780-w">Preferential selection of Arginine at the lipid-water-interface of TRPV1 during vertebrate evolution correlates with its snorkeling behaviour and cholesterol interaction	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/27767291/">Sanyasi S, Kumar S, Ghosh A, Majhi RK, Kaur N, Choudhury P, Singh UP, Goswami C, Goswami L. (2017) A modified polysaccharide-based hydrogel for enhanced osteogenic maturation and mineralization independent of differentiation factors. Macromolecular Bioscience 17, 3. </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.proquest.com/openview/59cf8363940abb2e0fff7cc36288b2fc/1?pq-origsite=gscholar&cbl=4385532">Induction of apoptosis by Fe (salen) Cl through caspase-dependent pathway specifically in tumor cells	</a>
+        <a target="__blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5463893/">Yadav M, Goswami C (2017) TRPV3 mutants causing Olmsted Syndrome induce impaired cell adhesion and nonfunctional lysosomes. Channels 11, 196-208. </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="HSP47/SERPINH1)	https://www.nature.com/articles/s41598-017-10740-0">Ancestry & molecular evolutionary analyses of heat shock protein 47 kDa (</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/28039038/">Kumar S, Singh U, Singh O, Goswami C, Singru PS (2017) Transient receptor potential vanilloid 6 (TRPV6) in the mouse brain: Distribution and estrous cycle-related changes in the hypothalamus. Neuroscience 344, 204-216</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.tandfonline.com/doi/full/10.1080/19336950.2016.1249076">TRPV3 mutants causing Olmsted Syndrome induce impaired cell adhesion and nonfunctional lysosomes	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/28235149/">Kumar S, Singh U, Goswami C, Singru PS (2017) Transient receptor potential vanilloid 5 (TRPV5), a highly Ca2+-selective TRP channel in the rat brain: relevance to neuroendocrine regulation. Journal of Neuroendocrinology 29, 4.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jne.12466">Transient receptor potential vanilloid 5 (TRPV5), a highly Ca2+‐selective TRP channel in the rat brain: relevance to neuroendocrine regulation	</a>
+        <a target="__blank" href="https://www.nature.com/articles/s41598-017-10740-0">Kumar A, Bhandari A; Sarde SJ, Goswami C (2017) Ancestry & molecular evolutionary analyses of heat-shock protein 47 kDa (HSP47/SERPINH1) Scientific reports 7, 10394. </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0306452216307254">Transient receptor potential vanilloid 6 (TRPV6) in the mouse brain: distribution and estrous cycle-related changes in the hypothalamus	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mabi.201600268">A Modified Polysaccharide‐Based Hydrogel for Enhanced Osteogenic Maturation and Mineralization Independent of Differentiation Factors	</a>
+        <a target="__blank" href="https://www.nature.com/articles/s41598-017-16780-w">Saha S, Ghosh A, Tiwari N, Kumar A, Kumar A, Goswami C (2017) Preferential selection of Arginine at the lipid-water-interface of TRPV1 during vertebrate evolution correlates with its snorkeling behaviour and cholesterol interaction. Scientific reports 7, 16808. </a>
       </li>
 
-      <h2 class="text-2xl mt-5 pl-5">
+      <h2 class="text-2xl mt-5 pl-5 font-sans">
         2016
       </h2>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0028390816301484">Transient receptor potential vanilloid 3 (TRPV3) in the ventral tegmental area of rat: Role in modulation of the mesolimbic-dopamine reward pathway	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/26824840/">Majhi RK, Kumar A, Yadav M, Kumar P, Maity A, Giri SC, Goswami C (2016) Light and electron microscopic study of mature spermatozoa from white pekin duck (Anas platyrhyncho ): An ultra-structural and molecular analysis. Andrology 4, 232-44</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.tandfonline.com/doi/full/10.1080/19336950.2016.1162365">Why individual thermo sensation and pain perception varies? Clue of disruptive mutations in TRPVs from 2504 human genome data	</a>
+        <a target="__blank" href="https://agris.fao.org/agris-search/search.do?recordID=US201600216268">Kumar A, Majhi RK, Swain N, Giri SC, Kar S, Samanta L, Goswami C (2016) TRPV4 is endogenously expressed in vertebrate spermatozoa and regulates intracellular calcium in human sperm. Biochemical and Biophysical Research Communications. 473, 781-8.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0006291X16303825">TRPV4 is endogenously expressed in vertebrate spermatozoa and regulates intracellular calcium in human sperm	</a>
+        <a target="__blank" href="https://www.nature.com/articles/srep24929">Sanyasi S, Majhi RK, Kumar S, Mishra M, Ghosh A, Suar M, Satyam PV, Mohapatra H, Goswami C, Goswami L. (2016) Carboxy Methyl Tamarind Polysaccharide-capped silver Nanoparticles (AgNP) inhibit biofilm formation by blocking FtsZ-FtsA complex-mediated microbial cell division. Scientific reports 6, 24929. </a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.tandfonline.com/doi/full/10.3109/19396368.2016.1148798">Histone retention, protein carbonylation, and lipid peroxidation in spermatozoa: possible role in recurrent pregnancy loss	</a>
+        <a target="__blank" href="https://pubmed.ncbi.nlm.nih.gov/27084697/">Singh U, Kumar S, Shelkar G, Yadav M, Kokare D, Goswami C, Lechan R, Singru P (2016) Transient receptor potential vanilloid (TRPV3) in the ventral tegmental area of rat: role in modulation of the mesolimbic-dopamine reward pathway. Neuropharmacology 110, 198-210.</a>
       </li>
       <li class="pt-8">
-        <a target="__blank" href="https://www.nature.com/articles/srep24929">Polysaccharide-capped silver Nanoparticles inhibit biofilm formation and eliminate multi-drug-resistant bacteria by disrupting bacterial cytoskeleton with reduced cytotoxicity …	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://academic.oup.com/femsle/article/363/8/fnw050/2570126?login=true">Lactobacillus acidophilus binds to MUC3 component of cultured intestinal epithelial cells with highest affinity	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/andr.12130">Light and electron microscopic study of mature spermatozoa from White Pekin duck (Anas platyrhynchos): an ultrastructural and molecular analysis	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://d1wqtxts1xzle7.cloudfront.net/44812249/BBRC-TRPV4.pdf?1460878262=&response-content-disposition=inline%3B+filename%3DTRPV4_is_endogenously_expressed_in_verte.pdf&Expires=1642610053&Signature=TRIqO55AEMYeZ7cVc7HZ2UceRtYCKKhhXqeuVlwdRYWD3zn5GkUm6B4vZtcphXHL6o21GFjhlfmYTkmH5Mb89RLHlis7i1yTjVzY0AkcX62P3EOVPEN6Nam~AATSbSbUTuyqQZ1LiUbUi1XVpeZRcPH17gE12vWnl-4JLTS0BKgk-kJm-VAVDUZFdXlFouvd~IXjySXYX2TbbU1fleCI0xbnjC9a~Q~Bwjmq4owlE~3sQGn6nHaWvf5THBhtHti3LkF4SGCRkuR2popgEvOZ~TW~Z69c4Y5CGNL5jAMd~noOP5LVgUq7fAVbZRzf-3o3snHxOJC1rQJRGyZ-KmZTXA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">TRPV4 is endogenously expressed in vertebrate spermatozoa and regulates intracellular calcium in human sperm	</a>
-      </li>
-
-      <h2 class="text-2xl mt-5 pl-5">
-        2015
-      </h2>
-      <li class="pt-8">
-        <a target="__blank" href="https://peerj.com/articles/1310/">Expression of temperature-sensitive ion channel TRPM8 in sperm cells correlates with vertebrate evolution	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/pii/S0016648014003980">Regulation of TRP channels by steroids: Implications in physiology and diseases	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="-005-SP	https://www.sciencedirect.com/science/article/abs/pii/S0006291X14021081">Influence of membrane cholesterol in the molecular evolution and functional regulation of TRPV4: P33</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://febs.onlinelibrary.wiley.com/doi/full/10.1111/febs.13306">Functional expression of TRPV channels in T cells and their implications in immune regulation	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.14-257501">Regulation of Noxa‐mediated apoptosis in Helicobacter pylori‐infected gastric epithelial cells	</a>
-      </li>
-      <li class="pt-8">
-        <a target="__blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0006291X14021081">Influence of membrane cholesterol in the molecular evolution and functional regulation of TRPV4	</a>
+        <a target="__blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988432/">Ghosh A, Kaur N, Kumar A, Goswami C (2016) Why individual thermo sensation and pain perception varies? Clue of disruptive mutations in TRPVs from 2504 human genome data. Channels 10, 339-345. </a>
       </li>
     </ul>
   </div>

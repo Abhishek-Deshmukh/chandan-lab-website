@@ -10,10 +10,10 @@ const props = defineProps<{ name: string; description: string; img: string; posi
         :src="props.img"
         :alt="props.name"
       >
-      <p class="text-xl mt-4 uppercase font-medium font-serif">
+      <p class="text-xl mt-4 uppercase font-medium font-sans">
         {{ props.name }}
       </p>
-      <p class="font-serif">
+      <p class="font-sans">
         {{ props.position }}
       </p>
       <p

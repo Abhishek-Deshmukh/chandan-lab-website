@@ -17,11 +17,11 @@ const { t } = useI18n()
 <template>
   <div class="top-0 left-0 h-screen w-screen z-0 flex bg-cover dark:bg-gray-700" style="background-image: url(/img/hero_bg.jpg);">
     <div class="m-auto text-white">
-      <span class="text-3xl lg:text-9xl md:text-4xl font-mono font-bold">
+      <span class="text-3xl lg:text-9xl md:text-4xl font-sans">
         CG LAB
       </span>
 
-      <p class="text-gray-300 text-3xl pt-3 font-mono">
+      <p class="text-gray-300 text-3xl pt-3 font-sans font-semibold">
         NISER, Bhubaneswar
       </p>
     </div>

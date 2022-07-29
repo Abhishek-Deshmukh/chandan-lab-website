@@ -25,12 +25,12 @@ const navDivClasses = computed(() => {
 
 <template>
   <div class="w-screen items-center fixed">
-    <header class="body-font lg:mt-5 md:mt-3 lg:mx-auto md:mx-auto container lg:max-w-13/14 md:max-w-19/20 sm:max-w-14/14 sm:m-0">
+    <header class="lg:mt-5 md:mt-3 lg:mx-auto md:mx-auto container lg:max-w-13/14 md:max-w-19/20 sm:max-w-14/14 sm:m-0">
       <div
         :class="navDivClasses"
       >
         <nav
-          class="ml-auto md:mr-auto flex flex-initial flex-wrap items-start text-start uppercase font-mono text-3xl justify-start text-gray-500"
+          class="ml-auto md:mr-auto flex flex-initial flex-wrap items-start text-start uppercase font-sans text-3xl justify-start text-gray-500"
         >
           <router-link class="hover:bg-gray-200 rounded-md px-2 mt-1 xl:mr-10 md:mr-10 transition-all duration-100 hover:text-4xl" to="/">
             Home
