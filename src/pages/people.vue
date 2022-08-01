@@ -37,12 +37,11 @@
         img="https://www.niser.ac.in/~chandan/images/content/demo-only/cglabnew.png"
         name="Dr. Chandan Goswami"
         description="Dr. Chandan Goswami did his PhD in 2006 from Freie Universität Berlin, Germany. He is currently working on Crosstalk between cytoskeleton and TRP channels, pain biology."
-        position="Principal Investigator"
+        position="Principal Investigator, Associate Professor, DAAD Research Ambasador, India."
       />
     </div>
-
     <h2 class="text-3xl pt-14 pl-8">
-      Ph.D Students
+      Post-Doc Students
     </h2>
     <div class="grid xl:grid-cols-4 md:grid-cols-2 sm:grid-cols-1">
       <Card
@@ -51,7 +50,12 @@
         description="He is working on TRPV4 in mitochondria and Bone cells."
         position="Post Doc. Student"
       />
+    </div>
 
+    <h2 class="text-3xl pt-14 pl-8">
+      Ph.D Students
+    </h2>
+    <div class="grid xl:grid-cols-4 md:grid-cols-2 sm:grid-cols-1">
       <Card
         img="./img/tusar.jpeg"
         name="Tusar Kanta Acharya"
@@ -164,7 +168,7 @@
         description="Current Position: Joining in IIT Kanpur as Assistant Professor in 2022."
       />
       <Card
-        img="./img/not-available.jpeg"
+        img="./img/somadatta.jpeg"
         name="Dr. Somdatta Saha (2014-2020)"
         description="Current Position: Joined as PDF in Virginia Commonwealth University, USA in 2021. "
       />
@@ -173,7 +177,7 @@
         name="Dr. Rashmita Das (2015-2022)"
         description="Current Position: Joined as PDF"
       />
-      <Card
+      <!-- <Card
         img="./img/Ranabir - Ranabir Chakraborty.jpg"
         name="Ranabir Chakraborty"
         description="Joining as PhD student at Institut Pasteur, Paris France in 2022."
@@ -183,7 +187,7 @@
         img="./img/IMG_20190509_084727 - Anushka Jain.jpg"
         name="Anushka Jain"
         description="Joining as a PhD student in University of Rochester, USA in 2022."
-      />
+      /> -->
     </div>
   </div>
 </template>

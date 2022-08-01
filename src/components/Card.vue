@@ -3,8 +3,8 @@ const props = defineProps<{ name: string; description: string; img: string; posi
 </script>
 
 <template>
-  <div class="h-120">
-    <div class="bg-gray-200 dark:bg-gray-800 h-110 mt-5 mx-8 rounded flex flex-col items-center p-6 text-center">
+  <div class="h-130">
+    <div class="bg-gray-200 dark:bg-gray-800 h-120 mt-5 mx-8 rounded flex flex-col items-center p-6 text-center">
       <img
         class="w-100% h-50 rounded"
         :src="props.img"

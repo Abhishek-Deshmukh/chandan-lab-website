@@ -1,4 +1,5 @@
 <template>
+  <img src="/img/Lab journals logos.jpg" class="pt-2">
   <div class="container mx-auto text-left">
     <h1 class="text-4xl pt-7 pl-3 uppercase font-sans">
       Publications
