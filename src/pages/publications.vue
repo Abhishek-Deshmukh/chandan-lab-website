@@ -7,8 +7,45 @@
 
     <ul class="list-disc pl-5 font-sans text-xl">
       <h2 class="text-2xl mt-5 pl-5 font-sans">
+        2023
+      </h2>
+      <li class="pt-8">
+        <a target="__blank" href="https://doi.org/10.1016/j.bbamem.2022.184085">
+          Das R, Mohanta S, Dubey NK, Das NK, Goswami C. Human skeletal dysplasia causing L596P-mutant alters the conserved amino acid pattern at the lipid-water-Interface of TRPV4. Biochim Biophys Acta Biomembr. 2023 Feb;1865(2):184085. doi: 10.1016/j.bbamem.2022.184085. Epub 2022 Nov 17. PMID: 36403799.
+        </a>
+      </li>
+      <h2 class="text-2xl mt-5 pl-5 font-sans">
         2022
       </h2>
+
+      <li class="pt-8">
+        <a target="__blank" href="https://doi.org/10.1016/j.lfs.2022.121112">Acharya TK, Kumar A, Kumar S, Goswami C. TRPV4 interacts with MFN2 and facilitates endoplasmic reticulum-mitochondrial contact points for Ca2+-buffering. Life Sci. 2022 Dec 1;310:121112. Epub 2022 Oct 22. PMID: 36283455.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://doi.org/10.1002/alz.068691">Shikha, D., Dalai, R. and Goswami, C. (2022), TRPM8 as a potential target in neurodegenerative diseases. Alzheimer's Dement., 18: e068691. </a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://doi.org/10.1016/j.bbrc.2022.08.026">Jain A, Sahu RP, Goswami C. Olmsted syndrome causing point mutants of TRPV3 (G568C and G568D) show defects in intracellular Ca2+-mobilization and induce lysosomal defects. Biochem Biophys Res Commun. 2022 Nov 5;628:32-39. doi: 10.1016/j.bbrc.2022.08.026. Epub 2022 Aug 28. PMID: 36063600.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://doi.org/10.1016/j.mito.2022.10.001">Kanta Acharya T, Kumar A, Kumar Majhi R, Kumar S, Chakraborty R, Tiwari A, Smalla KH, Liu X, Chang YT, Gundelfinger ED, Goswami C. TRPV4 acts as a mitochondrial Ca2+-importer and regulates mitochondrial temperature and metabolism. Mitochondrion. 2022 Nov;67:38-58. doi: 10.1016/j.mito.2022.10.001. Epub 2022 Oct 17. PMID: 36261119.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://doi.org/10.1016/bs.ctm.2022.07.004">Das R, Goswami C. Role of TRPV4 in skeletal function and its mutant-mediated skeletal disorders. Curr Top Membr. 2022;89:221-246. doi: 10.1016/bs.ctm.2022.07.004. Epub 2022 Sep 2. PMID: 36210150.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://doi.org/10.1016/10.1016/bs.ctm.2022.07.002">Acharya TK, Sahu RP, Kumar S, Kumar S, Rokade TP, Chakraborty R, Dubey NK, Shikha D, Chawla S, Goswami C. Function and regulation of thermosensitive ion channel TRPV4 in the immune system. Curr Top Membr. 2022;89:155-188. doi: 10.1016/bs.ctm.2022.07.002. Epub 2022 Aug 1. PMID: 36210148.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://doi.org/10.1016/j.bbrc.2022.04.066">Das R, Kumar A, Dalai R, Goswami C. Cytochrome C interacts with the pathogenic mutational hotspot region of TRPV4 and forms complexes that differ in mutation and metal ion-sensitive manner. Biochem Biophys Res Commun. 2022 Jun 30;611:172-178. doi: 10.1016/j.bbrc.2022.04.066. Epub 2022 Apr 17. PMID: 35490656.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="https://doi.org/10.1016/j.bbrc.2022.04.032">Chakraborty R, Goswami C. Both heat-sensitive TRPV4 and cold-sensitive TRPM8 ion channels regulate microglial activity. Biochem Biophys Res Commun. 2022 Jun 30;611:132-139. doi: 10.1016/j.bbrc.2022.04.032. Epub 2022 Apr 14. PMID: 35489198.</a>
+      </li>
+      <li class="pt-8">
+        <a target="__blank" href="">Mahanta S; Prusty M; Sivakumar PS; Mishra D; Sahu R; Goswami C; Chawla S; Goswami L; Elangovan S, Panda SK (2022) Novel Levilactobacillus brevis-based formulation for controlling cell proliferation, cell migration and gut dysbiosis. LWT - Food Science & Technology. 154, 112818 .</a>
+      </li>
+
       <li class="pt-8">
         <a target="__blank" href="https://www.sciencedirect.com/science/article/pii/S002364382101971X">Mahanta S; Prusty M; Sivakumar PS; Mishra D; Sahu R; Goswami C; Chawla S; Goswami L; Elangovan S, Panda SK (2022) Novel Levilactobacillus brevis-based formulation for controlling cell proliferation, cell migration and gut dysbiosis. LWT - Food Science & Technology. 154, 112818 .</a>
       </li>

@@ -12,6 +12,7 @@ declare module 'vue' {
     Card: typeof import('./components/Card.vue')['default']
     Counter: typeof import('./components/Counter.vue')['default']
     Footer: typeof import('./components/Footer.vue')['default']
+    Marquee: typeof import('./components/Marquee.vue')['default']
     NavBar: typeof import('./components/NavBar.vue')['default']
     README: typeof import('./components/README.md')['default']
     ResearchCard: typeof import('./components/ResearchCard.vue')['default']

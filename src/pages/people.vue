@@ -90,7 +90,15 @@
         description="She is working on TRPA1 and TRPM8. She likes coffee pretty much."
         position="Graduate Student"
       />
+
+      <Card
+        img="./img/Parnshree.jpg"
+        name="Parnasree Mahapatra"
+        description="---"
+        position="Graduate Student"
+      />
     </div>
+
     <h2 class="text-3xl pt-7 pl-8">
       Master's Students
     </h2>
@@ -146,6 +154,29 @@
         name="Ritesh Dalai"
         description="He is very passionate about coding and simulating molecular interactions of protein channels and he is working on TRRV3 and TRPV4 channles."
         position="Master's Student (2017-22)"
+      />
+    </div>
+    <h2 class="text-3xl pt-7 pl-8">
+      Project Students
+    </h2>
+    <div class="grid xl:grid-cols-4 md:grid-cols-2 sm:grid-cols-1">
+      <Card
+        img="./img/Anushka.jpeg"
+        name="Anushka Banerjee"
+        description="---"
+        position="Project Student"
+      />
+      <Card
+        img="./img/.jpeg"
+        name="Bidhu"
+        description="---"
+        position="Project Student"
+      />
+      <Card
+        img="./img/.jpeg"
+        name="---"
+        description="---"
+        position="Project Student"
       />
     </div>
     <h2 class="text-3xl pt-7 pl-8">
