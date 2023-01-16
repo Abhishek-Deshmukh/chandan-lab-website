@@ -40,9 +40,8 @@ export default {
       this.intervalId = setInterval(() => {
         currentImageIndex = Math.abs((this.translateX / this.$el.clientWidth) % this.$refs.content.childNodes.length)
         if (!isPaused) {
-          if (this.translateX <= -7000)
+          if (currentImageIndex === this.images.length - 1)
             this.translateX = 0
-
           else
             this.translateX -= this.$el.clientWidth
         }

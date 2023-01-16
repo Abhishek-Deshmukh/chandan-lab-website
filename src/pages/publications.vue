@@ -1,5 +1,7 @@
 <template>
-  <img src="/img/Lab_journals_logos.jpg" class="pt-2">
+  <!-- <img src="/img/Lab_journals_logos.jpg" class="pt-2"> -->
+  <marquee :img-urls="['/img/Lab journals logos_updated.png', '/img/cover pages.png']" />
+
   <div class="container mx-auto text-left">
     <h1 class="text-4xl pt-7 pl-3 uppercase font-sans">
       Publications

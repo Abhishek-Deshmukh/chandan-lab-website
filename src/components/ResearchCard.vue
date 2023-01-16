@@ -6,8 +6,8 @@ const props = defineProps<{ title: string; description: string; img: string }>()
 <template>
   <div class="w-100% m-3 bg-gray-200 dark:bg-gray-800 xl:h-xl rounded-xl">
     <div class="xl:flex xl:flex-row">
-      <div class="xl:basis-full xl:h-xl xl:pt-25">
-        <img :src="img" class="xl:w-100% xl:h-100% xl:mx-auto md:mx-auto md:pt-9">
+      <div class="xl:basis-full xl:h-xl xl:pt-10">
+        <img :src="img" class="xl:h-100% xl:mx-auto md:mx-auto md:pt-9">
       </div>
       <div class="xl:basis-full xl:pt-8 xl:pr-10 xl:pb-5 md:p-7 p-5">
         <h2 class="text-4xl">

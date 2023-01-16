@@ -221,4 +221,11 @@
       /> -->
     </div>
   </div>
+  <router-link to="/gallery">
+    <div class="windi-banner bg-blue-200 dark:bg-blue-900 pb-10 pt-10">
+      <h1 class="text-4xl">
+        Gallery
+      </h1>
+    </div>
+  </router-link>
 </template>
