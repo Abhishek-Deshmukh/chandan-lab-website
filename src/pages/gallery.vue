@@ -32,8 +32,7 @@ export default {
         '/img/gallery/Main page Image3 - Rakesh Kumar Majhi.png',
         '/img/gallery/Main page Image4 - Rakesh Kumar Majhi.png',
         '/img/gallery/Main page Image5 - Rakesh Kumar Majhi.png',
-        '/img/gallery/Testis-2 - Rakesh Kumar Majhi.jpg',
-        '/img/gallery/WhatsApp Image 2022-02-16 at 5.49.30 PM - Shreya Soni.jpeg'],
+        '/img/gallery/Testis-2 - Rakesh Kumar Majhi.jpg'],
     }
   },
 }

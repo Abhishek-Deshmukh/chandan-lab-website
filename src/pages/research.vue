@@ -16,7 +16,7 @@
     <div class="w-100% m-3 bg-gray-200 dark:bg-gray-800 xl:h-xl rounded-xl">
       <div class="xl:flex xl:flex-row">
         <div class="xl:basis-full xl:h-xl xl:pt-10">
-          <img src="/img/ram model - Rokade Tejas Pravin.jpg" class="xl:h-40% xl:mx-auto xl:mb-5 md:mx-auto md:pt-9" style="height:-webkit-fill-available">
+          <img src="/img/ram_model.jpg" class="xl:h-40% xl:mx-auto xl:mb-5 md:mx-auto md:pt-9" style="height:-webkit-fill-available">
         </div>
         <div class="xl:basis-full xl:pt-8 xl:pr-10 xl:pb-5 md:p-7 p-5">
           <h2 class="text-4xl">
