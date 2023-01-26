@@ -26,9 +26,9 @@ const { t } = useI18n()
       </p>
     </div>
   </div>
-  <section id="pain" class="container mx-auto flex h-screen pt-40">
+  <section id="pain" class="container mx-auto flex <md:(flex-wrap) lg:h-screen pt-40">
     <img src="https://www.niser.ac.in/~chandan/images/slideshow/Coverpic.jpg" class="w-100 h-100">
-    <div class="flex-grow text-left ml-10">
+    <div class="flex-grow text-left lg:ml-10 <md:(pt-3 pr-3 pl-3)">
       <p class="text-xl">
         "Pain" is a common phenomenon which has been experienced by most of us at some
         point of time. It is known that different defined physical stimuli like low pH
@@ -59,7 +59,7 @@ const { t } = useI18n()
       </p>
     </div>
   </section>
-  <section id="contact-us" class="container mx-auto h-screen pt-10">
+  <section id="contact-us" class="container mx-auto h-screen pt-10 <md:px-2">
     <h1 class="text-4xl">
       Contact/Join Us
     </h1>

@@ -10,7 +10,7 @@ const props = defineProps<{ title: string; description: string; img: string }>()
         <img :src="img" class="xl:h-100% xl:mx-auto md:mx-auto md:pt-9">
       </div>
       <div class="xl:basis-full xl:pt-8 xl:pr-10 xl:pb-5 md:p-7 p-5">
-        <h2 class="text-4xl">
+        <h2 class="xl:text-4xl <lg:text-3xl">
           {{ props.title }}
         </h2>
         <div class="bg-teal-300 w-10 h-2 my-3" />

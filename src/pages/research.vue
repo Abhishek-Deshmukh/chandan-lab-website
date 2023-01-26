@@ -19,7 +19,7 @@
           <img src="/img/ram_model.jpg" class="xl:h-40% xl:mx-auto xl:mb-5 md:mx-auto md:pt-9" style="height:-webkit-fill-available">
         </div>
         <div class="xl:basis-full xl:pt-8 xl:pr-10 xl:pb-5 md:p-7 p-5">
-          <h2 class="text-4xl">
+          <h2 class="xl:text-4xl <lg:text-3xl">
             Presence of TRPV3 in macrophage lysosomes helps in skin wound healing against bacterial infection
           </h2>
           <div class="bg-teal-300 w-10 h-2 my-3" />
