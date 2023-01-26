@@ -32,26 +32,26 @@ const navDivClasses = computed(() => {
         <nav
           class="ml-auto md:mr-auto flex flex-initial flex-wrap items-start text-start uppercase font-sans text-3xl justify-start text-gray-500"
         >
-          <router-link class="hover:bg-gray-200 rounded-md px-2 mt-1 xl:mr-10 md:mr-10 transition-all duration-100 hover:text-4xl" to="/">
+          <router-link class="hover:bg-gray-200 rounded-md px-2 mt-1 xl:mr-10 transition-all duration-100 hover:text-4xl <md:(text-2xl mr-5)" to="/">
             Home
           </router-link>
-          <router-link class="hover:bg-gray-200 rounded-md px-2 mt-1 transition-all duration-100 hover:text-4xl" to="/research">
+          <router-link class="hover:bg-gray-200 rounded-md px-4 mt-1 transition-all duration-100 hover:text-4xl <md:text-2xl left" to="/research">
             Research
           </router-link>
 
-          <span class="flex title-font font-medium items-center text-black mb-6 md:mb-0">
+          <span class="title-font font-medium items-center text-black lg:mb-1 @md:mb-1 <md:w-screen sm:mb-0">
             <router-link
-              class="mt-1 text-4xl text-gray-500 hover:underline xl:px-40 md:px-40"
+              class="mt-1 text-4xl text-gray-500 hover:underline xl:px-40 @md:(px-10 text-3xl) <md:(px-3 text-3xl)"
               draggable="false"
               to="/"
             >CG LAB</router-link>
           </span>
 
-          <router-link class="hover:bg-gray-200 rounded-md px-2 mt-1 transition-all duration-100 hover:text-4xl" to="/people">
+          <router-link class="hover:bg-gray-200 rounded-md px-4 mt-1 transition-all duration-100 hover:text-4xl <md:text-2xl" to="/people">
             People
           </router-link>
           <router-link
-            class="hover:bg-gray-200 rounded-md px-2 mt-1 xl:ml-10 md:ml-10 transition-all duration-100 hover:text-4xl"
+            class="hover:bg-gray-200 rounded-md px-2 mt-1 xl:ml-10 transition-all duration-100 hover:text-4xl <md:(text-2xl ml-5)"
             to="/publications"
           >
             Publications
