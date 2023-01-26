@@ -82,7 +82,7 @@ const { t } = useI18n()
       </a>
     </p>
     <h2 class="text-3xl text-left mt-7 mb-4">
-      Graduate and Postdoctoral Reseach
+      Graduate and Postdoctoral Research
     </h2>
     <p class="text-xl text-left">
       Candidates with an excellent research record and an excitement for asking
