@@ -185,7 +185,7 @@
         position="Project Student"
       />
       <Card
-        img="./img/Ranabir - Ranabir Chakraborty.jpg"
+        img="./img/Ranabir.jpeg"
         name="Ranabir Chakraborty"
         description="PhD student at Institut Pasteur, Paris France in 2022."
       />
@@ -200,7 +200,7 @@
         description="Current Position: Senior post-doctoral fellow in Washinton University, School of Medicine, USA. "
       />
       <Card
-        img="./img/pushpendu.jpeg"
+        img="./img/Pushpendu.jpeg"
         name="Dr. Pushpendu Sardar (2010-2012)"
         description="Current Position: Post doctorate fellow at the Department of Medicine, Cambridge University, UK in Sept 2021"
       />
@@ -215,7 +215,7 @@
         description="Current Position: IIT Kanpur as Assistant Professor from 2022."
       />
       <Card
-        img="./img/shikha.jpeg"
+        img="./img/Sikha.jpg"
         name="Dr. Shikha Kumari (2012-2014)"
         description="Current Position:Post-doctoral fellow in Wellcome Center for Integrative Parasitology at the University of Glasgow, June 2020 "
       />
@@ -226,7 +226,7 @@
         position="Master's Student"
       />
       <Card
-        img="./img/anurag.jpeg"
+        img="./img/anurag.jpg"
         name="Dr. Anurag Priyadarshi (2013-2015)"
         description="Current Position: National Institute of Health, USA as a post doctorate fellow "
       />
@@ -241,18 +241,18 @@
         description="Current Position: pHD completed in 2022. "
       />
       <Card
-        img="./img/nikhil.jpeg"
+        img="./img/Nikhil.jpeg"
         name="Dr. Nikhil Tiwari (2016-208)"
         description="Current Position: Joined Leibniz-Institut für Neurobiologie (LIN), Magdeburg, Germany as a PhD student. Oct 2018) "
       />
       <Card
-        img="./img/aiswrya.jpeg"
+        img="./img/aiswarya.jpg"
         name=" Aiswarya Shivanand (2016-2018)"
         description=" JRF at Indian Institute of Science since 2019"
         position="Master's Student"
       />
       <Card
-        img="./img/tanaya.jpeg"
+        img="./img/tanaya.jpg"
         name=" Tanaya Saha (2016-2018)"
         description=" Joined as a JRF at NII, New Delhi 2018."
         position="Master's Student"
@@ -270,13 +270,13 @@
         position="Master's Student"
       />
       <Card
-        img="./img/subhadra.jpeg"
+        img="./img/subhadra.jpg"
         name="Subhadra Majhi (2014-2019)"
         description="SPCB assistent environmental scientist"
         position="Master's Student"
       />
       <Card
-        img="./img/Samiksya.jpg"
+        img="./img/Samikshya.jpg"
         name="Samikshya Sucharita (2017-2019)"
         description=""
         position="Master's Student"
