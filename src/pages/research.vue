@@ -30,17 +30,17 @@
       </div>
     </div>
     <ResearchCard
-      title="Hydrogel-Mediated Release of TRPV1 Modulators to Fine Tune Osteoclastogenesis"
+      title="Role of TRPV1 Modulators in Osteoclastogenesis"
       description="Bone defects, including bone loss due to increased osteoclast activity, have become a global health-related issue. Osteoclasts attach to the bone matrix and resorb the same, playing a vital role in bone remodeling. Ca2+ homeostasis plays a pivotal role in the differentiation and maturation of osteoclasts. In this work, we examined the role of TRPV1, a nonselective cation channel, in osteoclast function and differentiation. We demonstrate that endogenous TRPV1 is functional and causes Ca2+ influx upon activation with pharmacological activators [resiniferatoxin (RTX) and capsaicin] at nanomolar concentration, which enhances the generation of osteoclasts, whereas the TRPV1 inhibitor (5′-IRTX) reduces osteoclast differentiation."
       img="/img/ranbir model - Rokade Tejas Pravin.gif"
     />
     <ResearchCard
-      title="TRPV4 acts as a mitochondrial Ca2+-importer and regulates mitochondrial temperature and metabolism"
+      title="Role of TRPV4 in regulation of mitochondrial temperature and metabolism"
       description="TRPV4 is associated with the development of neuropathic pain, sensory defects, muscular dystrophies, neurodegenerative disorders, Charcot Marie Tooth and skeletal dysplasia. In all these cases, mitochondrial abnormalities are prominent. Here, we demonstrate that TRPV4, localizes to a subpopulation of mitochondria in various cell lines. Improper expression and/or function of TRPV4 induces several mitochondrial abnormalities. TRPV4 is also involved in the regulation of mitochondrial numbers, Ca2+-levels and mitochondrial temperature. Accordingly, several naturally occurring TRPV4 mutations affect mitochondrial morphology and distribution. These findings may help in understanding the significance of mitochondria in TRPV4-mediated channelopathies possibly classifying them as mitochondrial diseases."
       img="/img/mitochondrian model - Rokade Tejas Pravin.png"
     />
     <ResearchCard
-      title="TRPV4 interacts with MFN2 and facilitates endoplasmic reticulum-mitochondrial contact points for Ca2+-buffering"
+      title="Role of TRPV4 in endoplasmic reticulum-mitochondrial contact points for Ca2+-buffering"
       description="Mitochondrial fission-fusion events, distribution, and Ca2+-buffering abilities are relevant for several diseases, yet are poorly understood events. TRPV4 channels are a group of thermosensitive ion channel which regulate cellular and mitochondrial Ca2+-level. The underlying mechanisms of the change in mitochondrial dynamics upon modulation of TRPV4 channel are ill explored."
       img="/img/ms 2model - Rokade Tejas Pravin.png"
     />

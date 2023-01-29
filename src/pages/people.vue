@@ -137,7 +137,7 @@
       <Card
         img="./img/tejas.jpeg"
         name="Tejas Pravin Rokade"
-        description="He is working on TRPV3,TRPV4."
+        description="He is working on TRPV3,TRPV4 in Lysosome."
         position="Master's Student (2018-23)"
       />
 
@@ -169,13 +169,13 @@
       <Card
         img="/img/Anushka.jpeg"
         name="Anushka Banerjee"
-        description="---"
+        description=""
         position="Project Student"
       />
       <Card
         img="/img/bidhu.jpeg"
         name="Bibhudutta Sahoo"
-        description="---"
+        description=""
         position="Project Student"
       />
       <Card
@@ -191,13 +191,18 @@
       />
     </div>
     <h2 class="text-3xl pt-7 pl-8">
-      PhD Alumni
+      Alumni
     </h2>
     <div class="grid xl:grid-cols-4 md:grid-cols-2 sm:grid-cols-1">
       <Card
         img="./img/ashutosh.jpeg"
         name="Dr. Ashutosh Kumar (2010-2016)"
-        description="Current Position: senior post-doctoral fellow in Washinton University, School of Medicine, USA. "
+        description="Current Position: Senior post-doctoral fellow in Washinton University, School of Medicine, USA. "
+      />
+      <Card
+        img="./img/pushpendu.jpeg"
+        name="Dr. Pushpendu Sardar (2010-2012)"
+        description="Current Position: Post doctorate fellow at the Department of Medicine, Cambridge University, UK in Sept 2021"
       />
       <Card
         img="./img/manoj.jpeg"
@@ -207,7 +212,23 @@
       <Card
         img="./img/rakesh.jpeg"
         name="Dr. Rakesh Kumar Majhi (2012-2017)"
-        description="Current Position: IIT Kanpur as Assistant Professor in 2022."
+        description="Current Position: IIT Kanpur as Assistant Professor from 2022."
+      />
+      <Card
+        img="./img/shikha.jpeg"
+        name="Dr. Shikha Kumari (2012-2014)"
+        description="Current Position:Post-doctoral fellow in Wellcome Center for Integrative Parasitology at the University of Glasgow, June 2020 "
+      />
+      <Card
+        img="./img/arjith.jpeg"
+        name="Arijit Ghosh (2012-2016)"
+        description="Post-doctoral fellow in National heart , lungs and blood institute, USA"
+        position="Master's Student"
+      />
+      <Card
+        img="./img/anurag.jpeg"
+        name="Dr. Anurag Priyadarshi (2013-2015)"
+        description="Current Position: National Institute of Health, USA as a post doctorate fellow "
       />
       <Card
         img="./img/somadatta.jpeg"
@@ -219,15 +240,57 @@
         name="Dr. Rashmita Das (2015-2022)"
         description="Current Position: pHD completed in 2022. "
       />
-    </div>
-    <h2 class="text-3xl pt-7 pl-8">
-      MSc Alumni
-    </h2>
-    <div class="grid xl:grid-cols-4 md:grid-cols-2 sm:grid-cols-1">
       <Card
-        img="./img/IMG_20190509_084727 - Anushka Jain.jpg"
-        name="Anushka Jain (2017-2022)"
-        description="PhD student in University of Rochester, USA in 2022."
+        img="./img/nikhil.jpeg"
+        name="Dr. Nikhil Tiwari (2016-208)"
+        description="Current Position: Joined Leibniz-Institut für Neurobiologie (LIN), Magdeburg, Germany as a PhD student. Oct 2018) "
+      />
+      <Card
+        img="./img/aiswrya.jpeg"
+        name=" Aiswarya Shivanand (2016-2018)"
+        description=" JRF at Indian Institute of Science since 2019"
+        position="Master's Student"
+      />
+      <Card
+        img="./img/tanaya.jpeg"
+        name=" Tanaya Saha (2016-2018)"
+        description=" Joined as a JRF at NII, New Delhi 2018."
+        position="Master's Student"
+      />
+      <Card
+        img="./img/divyanshi.jpeg"
+        name="Divyanshi (2017-2019)"
+        description="Joined University of Illinois at Urbana-Champaign as a PhD student. Oct 2018."
+        position="Master's Student"
+      />
+      <Card
+        img="./img/stuti.jpg"
+        name="Stuti Gupta (2017-2019)"
+        description="Joined University of Iowa, USA as a PhD student. 2019"
+        position="Master's Student"
+      />
+      <Card
+        img="./img/subhadra.jpeg"
+        name="Subhadra Majhi (2014-2019)"
+        description="SPCB assistent environmental scientist"
+        position="Master's Student"
+      />
+      <Card
+        img="./img/Samiksya.jpg"
+        name="Samikshya Sucharita (2017-2019)"
+        description=""
+        position="Master's Student"
+      />
+      <Card
+        img="./img/priyadharshan.jpeg"
+        name="Priyadarshan Pradhan (2018-2020)"
+        description=" Joined as a Lecturer in SCVB collage Palampur, Himachal"
+        position="Master's Student"
+      />
+      <Card
+        img="./img/srujanika.jpeg"
+        name="Srujanika (2016-2021) "
+        description="PhD student in instem, Bangalore in 2022."
         position="Master's Student"
       />
       <Card
@@ -237,33 +300,9 @@
         position="Master's Student"
       />
       <Card
-        img="./img/divyanshi.jpeg"
-        name="Divyanshi (2015-2020)"
-        description="PhD student"
-        position="Master's Student"
-      />
-      <Card
-        img="./img/srujanika.jpeg"
-        name="Srujanika(2016-2021) "
-        description="PhD student in instem, Bangalore in 2022."
-        position="Master's Student"
-      />
-      <Card
-        img="./img/subhadra.jpeg"
-        name="Subhadra(2014-2019)"
-        description="SPCB assistent environmental scientist"
-        position="Master's Student"
-      />
-      <Card
-        img="./img/priyadharshan.jpeg"
-        name="Priyadarshan Pradhan(2014-2019)"
-        description=" UPSC Aspirant"
-        position="Master's Student"
-      />
-      <Card
-        img="./img/arjith.jpeg"
-        name="Arijit Ghosh(2012-2016)"
-        description="Post-doctoral fellow in National heart , lungs and blood institute, USA"
+        img="./img/IMG_20190509_084727 - Anushka Jain.jpg"
+        name="Anushka Jain (2017-2022)"
+        description="PhD student in University of Rochester, USA in 2022."
         position="Master's Student"
       />
     </div>
