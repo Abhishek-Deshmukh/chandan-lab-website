@@ -15,14 +15,14 @@ const toggleLocales = () => {
     class="container mx-auto flex flex-row flex-col mt-5 mb-5 md:flex-row items-start lg:rounded-xl md:rounded w-screen"
   >
     <div class="basis-full w-screen">
-      <img src="/img/signature.png" alt="Dr. Chandan Goswami" class="filter invert dark:invert-0 mx-auto">
+      <img src="/img/signature.png" alt="Dr. Chandan Goswami" class="filter invert dark:invert-0 mx-auto <md:(px-20 my-5)">
     </div>
     <div class="basis-full w-screen">
       <img src="/img/niser_white_logo.png" alt="NISER logo" class="h-30 filter invert dark:invert-0 mx-auto">
     </div>
 
-    <div class="basis-full pt-8">
-      Made with ♥ by <a href="https://abhishek-deshmukh.com" class="hover:underline pl-2" target="__blank"> Abhishek Anil Deshmukh</a>
+    <div class="basis-full pt-8 <md:(p-3 mx-auto)">
+      Made with ♥ by <a href="mailto:deshmukhabhishek369@gmail.com" class="hover:underline pl-2" target="__blank">Abhishek Anil Deshmukh</a>
     </div>
   </footer>
 </template>
