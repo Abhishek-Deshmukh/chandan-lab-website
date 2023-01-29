@@ -10,7 +10,7 @@
     <ResearchCard
       title="Functional importance of thermosensitive TRPM8 channel in inflammatory conditions"
       description="Inflammatory disease conditions, such as in inflammatory bowel disease (IBD), colitis, neuronal inflammation, arthritis, brain inflammation, asthma, COPD, autoimmune diseases etc. involve various cellular functions that have involvement of thermosensitive TRP channels. Hence, understanding of how these channels affect in any diseased conditions and their response in a synergistic or antagonistic way will pave the way to novel therapeutic approaches."
-      img="/img/TRPM8 conservation - Deep Shikha.png"
+      img="/img/TRPM8 research section.jpg"
     />
 
     <div class="w-100% m-3 bg-gray-200 dark:bg-gray-800 xl:h-xl rounded-xl">
