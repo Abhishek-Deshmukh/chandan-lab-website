@@ -7,7 +7,7 @@
       Publications
     </h1>
 
-    <ul class="list-disc pl-5 font-sans text-xl">
+    <ul class="list-disc pl-5 font-sans text-xl <md:ml-3">
       <h2 class="text-2xl mt-5 pl-5 font-sans">
         2023
       </h2>
