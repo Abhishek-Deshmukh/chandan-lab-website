@@ -1,6 +1,6 @@
 <template>
   <!-- <img src="/img/hood.jpg" class="pt-7"> -->
-  <marquee :img-urls="['/img/hood.jpg', '/img/hood2.jpg', '/img/wells.jpg', '/img/etbr_area.jpg', '/img/microscope.jpeg', '/img/screen.jpg', '/img/sds_page_area.jpg']" />
+  <marquee :img-urls="['/img/hood.jpg', '/img/hood2.jpg', '/img/wells.jpg', '/img/etbr_area.jpg', '/img/microscope.jpg', '/img/screen.jpeg', '/img/sds_page_area.jpg']" />
 
   <div class="container mx-auto text-left">
     <h1 class="text-4xl underline pt-7 pl-3">
